@@ -5,22 +5,33 @@ This Tableau dashboard provides comprehensive insights into pizza sales data, en
 # Key Features
  # KPIs:
    Total Revenue: Sum of all pizza sales revenue.
+   
    Avg Order Value: Average value of each order.
+   
    Total Pizza Sold: Cumulative number of pizzas sold.
+   
    Total Orders: Total count of orders received.
+   
    Avg Pizza Per Order: Average number of pizzas per order.
    
 # Charts & Trends:
   Daily Trends: Visualizes daily sales trends to identify patterns and fluctuations.
+  
   Monthly Trends: Provides insights into monthly sales performance.
+  
   Sales by Category & Size: Breakdown of sales by pizza category and size.
+  
   Top and Bottom Pizza Sellers: Highlights best-selling and least-selling pizza varieties.
   
 # How to Use
   Select Date Range: Use the date range filter to analyze sales data for specific time periods.
+  
   Explore KPIs: Review key performance indicators to understand overall sales performance.
+  
   Analyze Trends: Examine daily and monthly trends to identify sales patterns and seasonality.
+  
   Segment Sales: Dive deeper into sales by category and size to understand product preferences.
+  
   Identify Top and Bottom Sellers: Identify top-performing and underperforming pizza varieties to optimize product offerings.
   
 # Data Sources
